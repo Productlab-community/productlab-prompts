@@ -25,23 +25,23 @@ The builder economy is the same story, one more time. Making building cheap does
 
 ## The aftermath: everyone looks smart, fast
 
-This is the part that should make every product person uneasy. As Christian put it, and as the Productlab team wrote down afterwards, AI gives you higher output, but it does not guarantee higher outcomes. That gap is on the product model to secure. If your model is broken, AI doesn't fix it. It amplifies the dysfunction at speed.
+This is the part that should make every product person uneasy. As Christian put it, and as [Vladimir Liashenko](https://www.linkedin.com/feed/update/urn:li:activity:7475914324365041664/) wrote down in the Productlab recap afterwards, AI gives you higher output, but it does not guarantee higher outcomes. That gap is on the product model to secure. If your model is broken, AI doesn't fix it. It amplifies the dysfunction at speed.
 
 So the aftermath of this new builder economy is a strange one: everyone *seems* smart. Everyone is moving fast. The prototypes are flowing, ten, twenty, thirty in a week. The mechanical work got cheap, and we got a flood of look-alike products to prove it. But the thinking got *more* expensive, not less. And in the rush of all that output creation, the quiet danger is that we forget we were never supposed to be output people. We were supposed to be outcome people.
 
-Miruna Popa caught the mood of the room in one line Christian dropped: *"We're using AI to accelerate our misery."* The whole place laughed, because everyone felt it. We can do more, faster, than ever, and we are less sure than ever about what we should be doing at all. Her reframe is the antidote: you don't need to know which of your twenty ideas is best. You need to know which five are worst, and kill them. Ideas were never scarce. The discipline to experiment across them, and to *stop* when the data answers, is what's scarce.
+[Miruna Popa](https://www.linkedin.com/posts/mirunapopa_productlabconf-activity-7475912194057236481-7HK9) caught the mood of the room in one line Christian dropped: *"We're using AI to accelerate our misery."* The whole place laughed, because everyone felt it. We can do more, faster, than ever, and we are less sure than ever about what we should be doing at all. Her reframe is the antidote: you don't need to know which of your twenty ideas is best. You need to know which five are worst, and kill them. Ideas were never scarce. The discipline to experiment across them, and to *stop* when the data answers, is what's scarce.
 
 ## Change everything to keep the one thing
 
 So how do you change everything in order to keep the one thing? The community's notes converge on a surprisingly old answer.
 
-Subir Paul reminded us that when Product Management was invented in 1931 by Neil McElroy, later P&G president and US Secretary of Defense, the role had four duties: Brand Advocate, Market Analyst, Sales Support Lead, Business Owner. Not one of them was a delivery task. Over the decades, as PMs got buried in sprint planning and backlog grooming, the strategic core got quietly handed off to "the business." Now AI is automating the admin, and the reckoning is simply this: we go back to what the job always was.
+[Subir Paul](https://www.linkedin.com/posts/subir-paul_productmanagement-productlabconf-aiproductoperator-activity-7476234317849980930-giSw) reminded us that when Product Management was invented in 1931 by Neil McElroy, later P&G president and US Secretary of Defense, the role had four duties: Brand Advocate, Market Analyst, Sales Support Lead, Business Owner. Not one of them was a delivery task. Over the decades, as PMs got buried in sprint planning and backlog grooming, the strategic core got quietly handed off to "the business." Now AI is automating the admin, and the reckoning is simply this: we go back to what the job always was.
 
-Christian's framing for *how* gave the room two modes, the way Tural Nabiyev captured it. First, build to learn: use AI to prototype heavily and cheaply, to test whether your solution actually solves the problem. Then, once you have clarity, build to earn: ship commercial-quality product as fast as the new tools allow. The mistake of the builder economy is to collapse the two, to mistake the joy of building-to-learn for the discipline of building-to-earn, and to do a great deal of fast building that earns nothing.
+Christian's framing for *how* gave the room two modes, the way [Tural Nabiyev](https://www.linkedin.com/posts/turaln_aint-gonna-lie-christian-idiodi-you-are-activity-7475827304171208705-ftcz) captured it. First, build to learn: use AI to prototype heavily and cheaply, to test whether your solution actually solves the problem. Then, once you have clarity, build to earn: ship commercial-quality product as fast as the new tools allow. The mistake of the builder economy is to collapse the two, to mistake the joy of building-to-learn for the discipline of building-to-earn, and to do a great deal of fast building that earns nothing.
 
 And underneath both modes, the line PMs needed to hear most: value and viability are on us. Engineers and designers own usability and feasibility. No one else will own the risk of whether we picked the right problem. No quantity of AI changes who is accountable for that.
 
-Maybe that's why so many people said a version of the same thing afterwards. Alexander Tikhonov put it best: that Christian didn't say a single thing they hadn't heard before, and it still changed what they'd do that week. The SVPG principles are easy to nod at and hard to live by. What Christian does is drag the idealized picture back down into the real world of deadlines and roadmaps, and show that behind every principle sit concrete, doable instructions. Deliver. Earn trust. Show by example that work can go differently. Explain how you work, then offer to make it a process. And always, *always*, think about the value people will actually pay for.
+Maybe that's why so many people said a version of the same thing afterwards. [Alexander Tikhonov](https://www.linkedin.com/posts/alex-tikh_productlabconf-ugcPost-7475868633810984960-14k-) put it best: that Christian didn't say a single thing they hadn't heard before, and it still changed what they'd do that week. The SVPG principles are easy to nod at and hard to live by. What Christian does is drag the idealized picture back down into the real world of deadlines and roadmaps, and show that behind every principle sit concrete, doable instructions. Deliver. Earn trust. Show by example that work can go differently. Explain how you work, then offer to make it a process. And always, *always*, think about the value people will actually pay for.
 
 Asked what he'd tell a founder at the very beginning, with no money and a mountain of tasks, his answer was blunt: use every capability AI gives you to run as many experiments as you can, and find product-market fit as fast as possible. Simple to say. The whole craft is in doing it.
 
@@ -52,16 +52,6 @@ The builder economy is real, and it's not the enemy. Cheap building is a gift, *
 That's the conversation we're carrying into the **[Productlab Conference](https://productlab.app) this September.** If half the talks are as good as this one, we're in for a great ride.
 
 Huge thanks to Christian for extending his trip to be with us, to mobile.de and Miro for sponsoring, and to everyone who made the room what it was.
-
----
-
-### Read the originals
-
-- [Miruna Popa](https://www.linkedin.com/posts/mirunapopa_productlabconf-activity-7475912194057236481-7HK9)
-- [Alexander Tikhonov](https://www.linkedin.com/posts/alex-tikh_productlabconf-ugcPost-7475868633810984960-14k-)
-- [Subir Paul](https://www.linkedin.com/posts/subir-paul_productmanagement-productlabconf-aiproductoperator-activity-7476234317849980930-giSw)
-- [Tural Nabiyev](https://www.linkedin.com/posts/turaln_aint-gonna-lie-christian-idiodi-you-are-activity-7475827304171208705-ftcz)
-- [Vladimir Liashenko](https://www.linkedin.com/feed/update/urn:li:activity:7475914324365041664/)
 
 ---
 
