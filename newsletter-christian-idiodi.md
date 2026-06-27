@@ -57,11 +57,11 @@ Huge thanks to Christian for extending his trip to be with us, to mobile.de and 
 
 ### Read the originals
 
-- Miruna Popa: [LinkedIn post](https://www.linkedin.com/posts/mirunapopa_productlabconf-activity-7475912194057236481-7HK9)
-- Alexander Tikhonov: [LinkedIn post](https://www.linkedin.com/posts/alex-tikh_productlabconf-ugcPost-7475868633810984960-14k-)
-- Subir Paul: [LinkedIn post](https://www.linkedin.com/posts/subir-paul_productmanagement-productlabconf-aiproductoperator-activity-7476234317849980930-giSw)
-- Tural Nabiyev: [LinkedIn post](https://www.linkedin.com/posts/turaln_aint-gonna-lie-christian-idiodi-you-are-activity-7475827304171208705-ftcz)
-- Vladimir Liashenko: [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7475914324365041664/)
+- [Miruna Popa](https://www.linkedin.com/posts/mirunapopa_productlabconf-activity-7475912194057236481-7HK9)
+- [Alexander Tikhonov](https://www.linkedin.com/posts/alex-tikh_productlabconf-ugcPost-7475868633810984960-14k-)
+- [Subir Paul](https://www.linkedin.com/posts/subir-paul_productmanagement-productlabconf-aiproductoperator-activity-7476234317849980930-giSw)
+- [Tural Nabiyev](https://www.linkedin.com/posts/turaln_aint-gonna-lie-christian-idiodi-you-are-activity-7475827304171208705-ftcz)
+- [Vladimir Liashenko](https://www.linkedin.com/feed/update/urn:li:activity:7475914324365041664/)
 
 ---
 
