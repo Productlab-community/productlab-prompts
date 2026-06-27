@@ -61,7 +61,7 @@ Huge thanks to Christian for extending his trip to be with us, to mobile.de and 
 - Alexander Tikhonov — [LinkedIn post](https://www.linkedin.com/posts/alex-tikh_productlabconf-ugcPost-7475868633810984960-14k-)
 - Subir Paul — [LinkedIn post](https://www.linkedin.com/posts/subir-paul_productmanagement-productlabconf-aiproductoperator-activity-7476234317849980930-giSw)
 - Tural Nabiyev — [LinkedIn post](https://www.linkedin.com/posts/turaln_aint-gonna-lie-christian-idiodi-you-are-activity-7475827304171208705-ftcz)
-- Vladimir — Productlab event recap
+- Vladimir Liashenko — [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7475914324365041664/)
 
 ---
 
